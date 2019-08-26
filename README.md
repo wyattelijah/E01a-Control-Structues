@@ -13,7 +13,9 @@ This repository contains several files that you will need to alter to complete t
 
 Comments in Python are marked by a # sign (for single-line comments) or three matching quotation marks (''' or """) if a comment requires more than one line. They should also appear in a different color in VS Code. The Python Interpreter ignores comments, so you can safely include any information you want there.
 
-As with your assignments, please edit the LICENSE file (replace the [year] [fullname] with the current year and your name), and edit questions.txt to answer the questions found there.
+As with your assignments, please edit the LICENSE file (replace the [year] [fullname] with the current year and your name); you will also be expected to edit README.md to describe what you have accomplished.
+
+Edit questions.txt to answer the questions found there.
 
 ---
 
