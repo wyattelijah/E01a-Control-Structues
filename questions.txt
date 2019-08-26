@@ -5,7 +5,7 @@ Now right click on the window and select “Run Python File in Terminal”. Clic
 The program printed out PS followed by the url for the folder we made
 
 What do you think the program did with what you typed?
-I think that the program 
+I think that the program took my answer and stored it in the repository folder
 
 
 Open main2.py. Before running it, describe how this is different than main1.py. 
