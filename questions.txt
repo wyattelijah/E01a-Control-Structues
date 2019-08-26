@@ -9,19 +9,19 @@ I think that the program took my answer and stored it in the repository folder
 
 
 Open main2.py. Before running it, describe how this is different than main1.py. 
-
+In main2 there is a variable color and then color is printed instead of just printing the input like in main1
 What do you think the color = input() will do? 
-
+I think color = input() will set color to the specified input
 Run the program in the terminal and answer the question. Did the program do what you expected?
-
+No, the programmed added a step I did not expect and printed the color that I typed in
 
 
 Open main3.py. Before running it, describe how this is different than main2.py. 
-
+Main3 adds an if else after the color declaration
 What is happening on lines 11–14? 
-
+The if is checking to see if you enter in "Red" and if not it will print "Try again"
 Why are lines 12 and 14 indented? 
-
+They are indented because they are within the if and the else
 Run the program and answer the question. What happens if you don’t capitalize Red? 
 
 What does this tell you about "color"?
