@@ -78,7 +78,7 @@ If you want more detailed instructions, here are the steps to follow:
 10. First, edit the file called LICENSE. Replace the [year] [fullname] with the current year and your name (e.g., 2019 Jason Francis). Save this file
 11. Then answer the questions posed above by *editing this file*.
 12. When the time comes for you to run your code, you can do so by right-clicking on the code and selecting "Run Python File in Terminal". The results will appear at the bottom. Make sure everything looks the way you would expect
-13. Open the README.md file (which, at this point contains all this information). The purpose of this file is to describe what you code does, so edit it to describe what you have accomplished. Write in your own voice, and try to be helpful to anyone who downloads this project. In this case, please answer the questions above. When you are done editing README.md, save the file
+13. When you have answered all the questions, feel free to clean up this file. You can delete these detailed instructions (between the exercise questions and the grading criteria). Save this file
 
 ---
 
